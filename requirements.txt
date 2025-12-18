@@ -1,0 +1,14 @@
+matplotlib==3.10.5
+numpy==2.0.1
+pandas==2.3.2
+scikit_learn==1.7.1
+scipy==1.16.0
+torch==2.8.0+cu129
+
+#pip install pipreqs
+#cd /path/to/project/folder
+#python -m pipreqs.pipreqs .
+#generate requirements.txt
+
+#On the new computer: Put the requirements.txt file in the folder with your code and run:
+#pip install -r requirements.txt
